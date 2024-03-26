@@ -55,7 +55,6 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: auto;
-
 }
 .img-box img{
     width: 100%;
@@ -64,6 +63,7 @@ body{
     left: 0;
     top: 0;
     object-fit: cover;
+   
 }
 .profile-text h2{
     color: #fff;
@@ -161,6 +161,7 @@ body{
 }
 .about p{
     color: #333;
+    text-align: justify;
 }
 
 .about .box{
